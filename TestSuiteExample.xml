@@ -1,0 +1,7 @@
+<suite name="Paralle Method Test Suite" parallel="methods" thread-count="4">
+	<test name="Parallel Test Scenarios">
+		<classes>
+			<class name="parallelMethods.ParallelMethodsExample" />
+		</classes>
+	</test>
+</suite>
